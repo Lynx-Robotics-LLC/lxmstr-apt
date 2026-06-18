@@ -1,0 +1,16 @@
+Package: lxmstr
+Architecture: arm64
+Depends: libc6 (>= 2.34), libcurl4 (>= 7.16.2), libgcc-s1 (>= 4.2), libsodium23 (>= 0.6.1), libstdc++6 (>= 11), libxml2 (>= 2.7.4)
+Priority: optional
+Section: libs
+Filename: pool/main/l/lxmstr/lxmstr_1.0.1_arm64.deb
+Size: 1183576
+SHA256: 6565c7c614b0d5f028abd4acde26d505779b5d923acc61f9b5b6673218549693
+SHA1: 4b2e2376d0c8f84cf4ef347616c0617ef05f8b67
+MD5sum: ff968a192d65b0287e1d45ec7c81ee5a
+Description: LXMSTR real-time EtherCAT master library, tools, and CLI
+Homepage: https://lynx-technologies-llc.github.io/lxmstr-apt
+Maintainer: LXMSTR <maintainer@lynxtechs.com>
+Version: 1.0.1
+Installed-Size: 3855
+

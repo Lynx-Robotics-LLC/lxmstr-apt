@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: LXMSTR
+Label: LXMSTR
+Codename: stable
+Date: Thu, 18 Jun 2026 19:59:58 UTC
+Architectures: amd64 arm64
+Components: main
+Description: LXMSTR real-time EtherCAT master apt repository
+MD5Sum:
+ 2f74a197272f6857281d9953f830250c 641 main/binary-amd64/Packages
+ a1de99e4daa7233c3225af3139219d5a 456 main/binary-amd64/Packages.gz
+ 4bb2dd2eed887bf0034551fd01a5aaf1 126 main/binary-amd64/Release
+ 2a173ea9e511a515de0842b59da05315 641 main/binary-arm64/Packages
+ b25f7b1dd142ec204addaf8f4de71ebb 456 main/binary-arm64/Packages.gz
+ 7259107fcce7d25a86d707d0eb162a33 126 main/binary-arm64/Release
+SHA1:
+ e372e0cb2375a02407604a43dd81f6bf41b2e5db 641 main/binary-amd64/Packages
+ a85f7a0cf174454efcf87028c5c5819bd5e32dc8 456 main/binary-amd64/Packages.gz
+ 26b192561ebdabe229e50849bc2785ffde07fae7 126 main/binary-amd64/Release
+ 92455a7728de91b64de6422d8da972ad0e5428d7 641 main/binary-arm64/Packages
+ dec101a69733f34fcce9aa746681d5afa1eecd5d 456 main/binary-arm64/Packages.gz
+ 615de707e60047e0f8dbf25ad690a2fc43db773d 126 main/binary-arm64/Release
+SHA256:
+ 5479b417e58b63aa504f9c29c49b06b4968261b1547b9c4a535f280f84efcf4a 641 main/binary-amd64/Packages
+ a1703baef0dcdba6960c21cf9b6d0d5e37d5f5cee7493c754c3a67d83620c4f4 456 main/binary-amd64/Packages.gz
+ 475f78ae98676fb325b3864d4860a738a9b8db4eac36a84cd560f2df0245bb37 126 main/binary-amd64/Release
+ e02105f07a86f9095d9260ad63d721fccf9afd2149d02d53dd79a0aa1a2d20b4 641 main/binary-arm64/Packages
+ 9c7d359961440f0f64884bef952cf8bed03bf4f286431695233d9e37619c1da4 456 main/binary-arm64/Packages.gz
+ 7a3790005e398f1e20816adeb37f451819d86184631b84e718e93aa53e1665c8 126 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTWFkYIfYaY6yhF6yy95Ud1W+u2rQUCajROPgAKCRC95Ud1W+u2
+rSDlAQDX2H7OWKFkhHhVGYMo4Iv33Suhp+NDTsajLP/fK5JpOgD/UttZCz5ZI2Ax
+yxZeoUuc1i/BU0Z9NEY4oK33C38MNAs=
+=1GGF
+-----END PGP SIGNATURE-----

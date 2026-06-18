@@ -1,0 +1,5 @@
+Component: main
+Origin: LXMSTR
+Label: LXMSTR
+Architecture: amd64
+Description: LXMSTR real-time EtherCAT master apt repository
