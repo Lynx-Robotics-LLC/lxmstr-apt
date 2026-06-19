@@ -1,28 +1,28 @@
 Origin: LXMSTR
 Label: LXMSTR
 Codename: stable
-Date: Fri, 19 Jun 2026 01:04:09 UTC
+Date: Fri, 19 Jun 2026 23:52:10 UTC
 Architectures: amd64 arm64
 Components: main
 Description: LXMSTR real-time EtherCAT master apt repository
 MD5Sum:
- 3fa40849ccf3152953bb7fe54adbaed8 641 main/binary-amd64/Packages
- e039732cfa836a9f2e759b16877e833c 458 main/binary-amd64/Packages.gz
+ 385bd8c2c7e524a162d2830a15af8f98 641 main/binary-amd64/Packages
+ f4f483abedbdd61b5971ed535d31dcaa 456 main/binary-amd64/Packages.gz
  4bb2dd2eed887bf0034551fd01a5aaf1 126 main/binary-amd64/Release
- 731a68506f0bd4d453c6b9382de739ac 641 main/binary-arm64/Packages
- 89130aae2d381d3691ea10889971008d 456 main/binary-arm64/Packages.gz
+ ea0e5785ea052d3845dbceeac5c142a5 641 main/binary-arm64/Packages
+ 262ccd13694ab1d736adcb37a232d6bf 455 main/binary-arm64/Packages.gz
  7259107fcce7d25a86d707d0eb162a33 126 main/binary-arm64/Release
 SHA1:
- 556ffd7ca62b1ea0afe7f3974b3e577348644d06 641 main/binary-amd64/Packages
- b3233c1768cc53c0d26e43f6df5760f887c2bdd1 458 main/binary-amd64/Packages.gz
+ 9628f40f3b7b4039b6663a3c3c99865e2c8d031f 641 main/binary-amd64/Packages
+ eabe9f129e97e18876283b41d504ceaf3e468def 456 main/binary-amd64/Packages.gz
  26b192561ebdabe229e50849bc2785ffde07fae7 126 main/binary-amd64/Release
- 8ca5a704a9f4aa907ba5da91913d0105d05a0f00 641 main/binary-arm64/Packages
- 65db9fdc738d41e2573b54e555f2beb486528b42 456 main/binary-arm64/Packages.gz
+ ba5fd513fd3f4f43a0b2c99bf8420f8c275fea10 641 main/binary-arm64/Packages
+ c687180d183247702457ae958fd7f5d56c9e5de1 455 main/binary-arm64/Packages.gz
  615de707e60047e0f8dbf25ad690a2fc43db773d 126 main/binary-arm64/Release
 SHA256:
- 26b42e9d15f660b0d4d3b4f2ed708a7425c5558c6ffcdaee13bf176923f689b4 641 main/binary-amd64/Packages
- 7c46925b5642a7e66eabe147da5824062831381e9a5e5b1049a46e359c523c3d 458 main/binary-amd64/Packages.gz
+ 7dc6c2f944530064c6dd79ef936b236c98900dffb07cebc551adb37289bd5481 641 main/binary-amd64/Packages
+ a14a17edbfe685e0cb6a267539290a3fb8ed1b97236711e53139e5bf8d314b21 456 main/binary-amd64/Packages.gz
  475f78ae98676fb325b3864d4860a738a9b8db4eac36a84cd560f2df0245bb37 126 main/binary-amd64/Release
- 4d1d7bd7c262c3bb0beaf35a2b319dbc700ed680ef6a524834b9f2f117517a28 641 main/binary-arm64/Packages
- 701872ca89d4da3540f43c824e30de02bbe97e10fd1d34654dd9ecfdf3489be9 456 main/binary-arm64/Packages.gz
+ cb7628fd3dea54f7db5ae6bd301ae9215ec0710e77f5194a33c0a2f283d7bc66 641 main/binary-arm64/Packages
+ fbeafbf5250eba1888756686a1ff1b872ccb56b22d62f7c3dae141ddaa1b54dd 455 main/binary-arm64/Packages.gz
  7a3790005e398f1e20816adeb37f451819d86184631b84e718e93aa53e1665c8 126 main/binary-arm64/Release
