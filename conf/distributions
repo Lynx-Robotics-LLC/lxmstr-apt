@@ -1,0 +1,7 @@
+Origin: LXMASTER
+Label: LXMASTER
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: LXMASTER real-time EtherCAT master apt repository
+SignWith: yes

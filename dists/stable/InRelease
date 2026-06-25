@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: LXMASTER
+Label: LXMASTER
+Codename: stable
+Date: Thu, 25 Jun 2026 19:28:37 UTC
+Architectures: amd64 arm64
+Components: main
+Description: LXMASTER real-time EtherCAT master apt repository
+MD5Sum:
+ 38b6be6b590c272d18e1b53760ec9d3a 626 main/binary-amd64/Packages
+ b62e895069e25727025473320cdc34e2 439 main/binary-amd64/Packages.gz
+ 97e19d1c635a78c5148d68269b0c98e4 132 main/binary-amd64/Release
+ 5866af4866d94b8aac1c7fd490ed2d49 626 main/binary-arm64/Packages
+ 66156c44b34dd275e4cd364ee643b09e 438 main/binary-arm64/Packages.gz
+ 508b9c5bb645cca1202b0ca7ad351889 132 main/binary-arm64/Release
+SHA1:
+ fe064541267c125f4527d2655b96ed01860b26cb 626 main/binary-amd64/Packages
+ 93d9680f051ef8ebd86984a473eb454d2425e9b2 439 main/binary-amd64/Packages.gz
+ 6de7da99eca0ab99d26e3eeeb0b02257a02cdc88 132 main/binary-amd64/Release
+ 9f04d4fd98354b3ad6bf981a1d3752e17f7ead8b 626 main/binary-arm64/Packages
+ c4b1a1b8470b9e02c6a9f69faec7a50471da435c 438 main/binary-arm64/Packages.gz
+ c9b34c2e1515ad80e58a6a8e0d54eab1503cd8c9 132 main/binary-arm64/Release
+SHA256:
+ 64cd8c80b0ac8c01b898d06ef5a2995d005953d0072ae3955c7f0c3c0d1bcd29 626 main/binary-amd64/Packages
+ 55eae6c660e4bb4f6cc7a1a4c81a379ae5ee30d421c3ac8601f8e1e741d6f7b0 439 main/binary-amd64/Packages.gz
+ ec3e275dd6990c3708e86bcc292465d110f973274a3f73fa7fb1bb6bb8b61f01 132 main/binary-amd64/Release
+ 6b7e2c11ed630bb85ff61d0831f1604b31403cf56d61ea6cbeb934859e34b931 626 main/binary-arm64/Packages
+ e503912708c61c3785d76e04e23286cb6c0da2a60feb12d202f8849198d89804 438 main/binary-arm64/Packages.gz
+ e16e8dee183ba8d39f52eefcca3bb50b5d437b26559fb711da355de3bb9f43c8 132 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQho7Bhvz6C/Fi3o6h1rynT2f9NDwUCaj2BZQAKCRB1rynT2f9N
+D3otAQCDM8aJko5ro0BQNzha5y5ZCaGu/rseHhDFdhGCIFwjqwD/fh6xPZkC29Bg
+SIsiyseqcaZEMLl1uUbtT6hJ+zu3JAw=
+=XcyC
+-----END PGP SIGNATURE-----
