@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>LXMSTR apt repository</title>
+  <title>LXMASTER apt repository</title>
   <style>
     :root { color-scheme: light dark; }
     body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
@@ -21,13 +21,13 @@
   </style>
 </head>
 <body>
-  <h1>LXMSTR apt repository</h1>
+  <h1>LXMASTER apt repository</h1>
   <p class="sub">Real-time EtherCAT master &mdash; latest release: <strong>v1.0.7</strong></p>
 
   <h2>Install</h2>
-  <pre><code>curl -fsSL https://lynx-technologies-llc.github.io/lxmstr-apt/lxmstr.gpg | sudo tee /usr/share/keyrings/lxmstr.gpg >/dev/null
-echo "deb [signed-by=/usr/share/keyrings/lxmstr.gpg] https://lynx-technologies-llc.github.io/lxmstr-apt stable main" | sudo tee /etc/apt/sources.list.d/lxmstr.list
-sudo apt update &amp;&amp; sudo apt install lxmstr</code></pre>
+  <pre><code>curl -fsSL https://lynx-technologies-llc.github.io/lxmaster-apt/lxmaster.gpg | sudo tee /usr/share/keyrings/lxmaster.gpg >/dev/null
+echo "deb [signed-by=/usr/share/keyrings/lxmaster.gpg] https://lynx-technologies-llc.github.io/lxmaster-apt stable main" | sudo tee /etc/apt/sources.list.d/lxmaster.list
+sudo apt update &amp;&amp; sudo apt install lxmaster</code></pre>
 
   <h2>Supported distributions</h2>
   <p>Packages are built against glibc 2.35 (Ubuntu 22.04 baseline) with GCC&nbsp;12,
@@ -46,6 +46,6 @@ sudo apt update &amp;&amp; sudo apt install lxmstr</code></pre>
   </table>
   <p>Requires a 64-bit OS (<code>dpkg --print-architecture</code> &rarr; <code>amd64</code> or <code>arm64</code>).</p>
 
-  <footer>Signed with the LXMSTR GPG key (<a href="lxmstr.gpg.asc">lxmstr.gpg.asc</a>). Generated automatically on each release.</footer>
+  <footer>Signed with the LXMASTER GPG key (<a href="lxmaster.gpg.asc">lxmaster.gpg.asc</a>). Generated automatically on each release.</footer>
 </body>
 </html>

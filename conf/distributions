@@ -1,7 +1,7 @@
-Origin: LXMSTR
-Label: LXMSTR
+Origin: LXMASTER
+Label: LXMASTER
 Codename: stable
 Architectures: amd64 arm64
 Components: main
-Description: LXMSTR real-time EtherCAT master apt repository
+Description: LXMASTER real-time EtherCAT master apt repository
 SignWith: yes
