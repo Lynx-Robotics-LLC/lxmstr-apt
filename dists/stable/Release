@@ -1,28 +1,28 @@
 Origin: LXMASTER
 Label: LXMASTER
 Codename: stable
-Date: Mon, 13 Jul 2026 20:40:34 UTC
+Date: Mon, 13 Jul 2026 20:46:04 UTC
 Architectures: amd64 arm64
 Components: main
 Description: LXMASTER real-time EtherCAT master apt repository
 MD5Sum:
- 343114646f68ebcafc58317d29e368a9 626 main/binary-amd64/Packages
- 437e53a654e6b5c32311b19938218362 438 main/binary-amd64/Packages.gz
+ c132fdbf6a4946636498ed90b5fd6e98 626 main/binary-amd64/Packages
+ b6df1a2235eabea63ae66430fe4c50ad 439 main/binary-amd64/Packages.gz
  97e19d1c635a78c5148d68269b0c98e4 132 main/binary-amd64/Release
- 4cee3306d8c520af658f6727c6b52b0e 626 main/binary-arm64/Packages
- e7d19ce47185641d8d9d627b8905d373 437 main/binary-arm64/Packages.gz
+ 269988826060ebbbcd14327b75bfa779 626 main/binary-arm64/Packages
+ 2dd573698fa1e6cb50d72f5962dd5f15 437 main/binary-arm64/Packages.gz
  508b9c5bb645cca1202b0ca7ad351889 132 main/binary-arm64/Release
 SHA1:
- ebaeabda1a5b68984083c42b73b6ba66b8055bff 626 main/binary-amd64/Packages
- ec4c24611dc0b4f735d8a56c180c7dacc1282fd7 438 main/binary-amd64/Packages.gz
+ c7f8acd092dbe96aa78bd42f3c479307e7edec5d 626 main/binary-amd64/Packages
+ 9b79d6a207a9df2a32debb03b53da0ecef49b8e9 439 main/binary-amd64/Packages.gz
  6de7da99eca0ab99d26e3eeeb0b02257a02cdc88 132 main/binary-amd64/Release
- b1afa6ea2c19ecbe3304fffbc960a172890c0fb0 626 main/binary-arm64/Packages
- e00d3ae59668cfe80248f066f9c590c8f76b95cc 437 main/binary-arm64/Packages.gz
+ 848c2cc496885ef44ba037eb6038a1664f2d4e1b 626 main/binary-arm64/Packages
+ 3a19692f43ca1b453a71f401435975281c7c0f6e 437 main/binary-arm64/Packages.gz
  c9b34c2e1515ad80e58a6a8e0d54eab1503cd8c9 132 main/binary-arm64/Release
 SHA256:
- dab2aa54f5e0ffa44d0670b3fc1dc2ba054fe1054a6a908b6dbf66ccdd97daf0 626 main/binary-amd64/Packages
- a7328557d732fb926204b842d4c75fca4ea8357edbb28298b3e60900c819811e 438 main/binary-amd64/Packages.gz
+ 8315672337f73756daeba440d5061305c506e2450959061705748f14b0679876 626 main/binary-amd64/Packages
+ 569cc40d5dbbeb6979d4c39117f86aecd7e548df86a522e29bc67fdc05449a6f 439 main/binary-amd64/Packages.gz
  ec3e275dd6990c3708e86bcc292465d110f973274a3f73fa7fb1bb6bb8b61f01 132 main/binary-amd64/Release
- 7b8b709da9b4002656b15398129494fdd7882e384f403b84279bcc497610a075 626 main/binary-arm64/Packages
- 4b0c6cf8ad390175db30dcbebed68ff26e0bd3d6cce5d8bdd8551a869ddd8e40 437 main/binary-arm64/Packages.gz
+ f10c444889609cabd80a54c9a0af504f2523d1da933fe80699c3b74e685dd64a 626 main/binary-arm64/Packages
+ 86746161df0d4c86198fefad8bd86981c49ccc5fbb42f2aa52801aa5139ad7a2 437 main/binary-arm64/Packages.gz
  e16e8dee183ba8d39f52eefcca3bb50b5d437b26559fb711da355de3bb9f43c8 132 main/binary-arm64/Release
