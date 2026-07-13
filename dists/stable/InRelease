@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: LXMASTER
 Label: LXMASTER
 Codename: stable
-Date: Mon, 06 Jul 2026 04:48:42 UTC
+Date: Mon, 13 Jul 2026 20:40:34 UTC
 Architectures: amd64 arm64
 Components: main
 Description: LXMASTER real-time EtherCAT master apt repository
 MD5Sum:
- feaf35e444b69c792482e460c2cf06d0 628 main/binary-amd64/Packages
- 7c64ef24ba1d54a43f4d99b73c5eaf45 441 main/binary-amd64/Packages.gz
+ 343114646f68ebcafc58317d29e368a9 626 main/binary-amd64/Packages
+ 437e53a654e6b5c32311b19938218362 438 main/binary-amd64/Packages.gz
  97e19d1c635a78c5148d68269b0c98e4 132 main/binary-amd64/Release
- b005f7819ff04d77e2a1e63523df1f10 628 main/binary-arm64/Packages
- 1bc99ef251f09c5aa3a8807f73455e70 439 main/binary-arm64/Packages.gz
+ 4cee3306d8c520af658f6727c6b52b0e 626 main/binary-arm64/Packages
+ e7d19ce47185641d8d9d627b8905d373 437 main/binary-arm64/Packages.gz
  508b9c5bb645cca1202b0ca7ad351889 132 main/binary-arm64/Release
 SHA1:
- 2eb0aea7342469f25b7c58f996e5072bb8874637 628 main/binary-amd64/Packages
- 00cfb9852590bceaae4f70569cd70c637105808b 441 main/binary-amd64/Packages.gz
+ ebaeabda1a5b68984083c42b73b6ba66b8055bff 626 main/binary-amd64/Packages
+ ec4c24611dc0b4f735d8a56c180c7dacc1282fd7 438 main/binary-amd64/Packages.gz
  6de7da99eca0ab99d26e3eeeb0b02257a02cdc88 132 main/binary-amd64/Release
- 942837b397b8350f1da618ec51c301d4ef83c4ef 628 main/binary-arm64/Packages
- bd69f042f745568d7ead94eeb7b1778a7101281f 439 main/binary-arm64/Packages.gz
+ b1afa6ea2c19ecbe3304fffbc960a172890c0fb0 626 main/binary-arm64/Packages
+ e00d3ae59668cfe80248f066f9c590c8f76b95cc 437 main/binary-arm64/Packages.gz
  c9b34c2e1515ad80e58a6a8e0d54eab1503cd8c9 132 main/binary-arm64/Release
 SHA256:
- cc2cd8f6f52c8cf98a65d779e893782f849e0626e11c8f27a2010a652f615b04 628 main/binary-amd64/Packages
- 60b364026e3a1b7538dd933547d22fdca764436250c4e3b31c3de3b22218dff0 441 main/binary-amd64/Packages.gz
+ dab2aa54f5e0ffa44d0670b3fc1dc2ba054fe1054a6a908b6dbf66ccdd97daf0 626 main/binary-amd64/Packages
+ a7328557d732fb926204b842d4c75fca4ea8357edbb28298b3e60900c819811e 438 main/binary-amd64/Packages.gz
  ec3e275dd6990c3708e86bcc292465d110f973274a3f73fa7fb1bb6bb8b61f01 132 main/binary-amd64/Release
- fd1eb5c3777ca5d9cd6e1c8b95acd28c0dadf8a05d441721d07ff8d0139c3bfd 628 main/binary-arm64/Packages
- da5427c77f83a5472b47cba06a533c1cd904a92bfcb2951a477df262f8aa4ded 439 main/binary-arm64/Packages.gz
+ 7b8b709da9b4002656b15398129494fdd7882e384f403b84279bcc497610a075 626 main/binary-arm64/Packages
+ 4b0c6cf8ad390175db30dcbebed68ff26e0bd3d6cce5d8bdd8551a869ddd8e40 437 main/binary-arm64/Packages.gz
  e16e8dee183ba8d39f52eefcca3bb50b5d437b26559fb711da355de3bb9f43c8 132 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQho7Bhvz6C/Fi3o6h1rynT2f9NDwUCakszqgAKCRB1rynT2f9N
-DwpHAP44F2WaZighH0lK90DwQ5b1e6JSqnJDjUufNEcvTbcmgQD+MaA5Od+AnfCA
-wmi0Q7c5UxwR2Ey4qFMFD4DSdF/kqgg=
-=LGQA
+iHUEARYKAB0WIQQho7Bhvz6C/Fi3o6h1rynT2f9NDwUCalVNQgAKCRB1rynT2f9N
+D9x+AQCJw2yvGEzbtAlfKpf9leUBYBS1DxMgWdIrYk2wJk/iJAD+JUhuHWj9XapU
+u7G0JPfF9zs+kousyy7ZUTTBoHFORQs=
+=UGJa
 -----END PGP SIGNATURE-----
